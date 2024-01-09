@@ -4,3 +4,6 @@ Hello, I am making changes.
 hjhjj
 kkkkkkkkkk
 llllll
+
+Hello, I am m
+making changes. to git (ommit)
